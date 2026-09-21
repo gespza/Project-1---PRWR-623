@@ -1,4 +1,4 @@
-# Troubleshooting when reviewing an oral history transcript
+# Troubleshooting when reviewing a transcript
 Go back to procedures | Go to home page
 <!-- Haven't coded this to work, but I will eventually -->
 ## Common trouble spots and solutions
@@ -16,5 +16,5 @@ Many GIVE students have run into trouble spots when reviewing a transcript for t
 | --- | --- |
 | Words were inaccurately transcribed | Strikethrough text and add in accurate text |
 | Name of person, street, or location was misspelled | Strikethrough text and add in correct spelling |
-| Unsure whether to make an edit | Highlight the line or section that is causing uncertainty and leave a comment describing your uncertainty for later reviewer to address
+| Unsure whether to make an edit | Highlight the line or section that is causing uncertainty and leave a comment describing your uncertainty for another reviewer to address at a later date
 | Section of transcript missing | Type in the missing section from scratch and leave a comment in the document noting which section you added in
