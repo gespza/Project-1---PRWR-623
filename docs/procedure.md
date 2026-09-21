@@ -33,17 +33,17 @@ Follow the steps below when reviewing any transcript for NeTIA's Oral History Pr
     * Inccurately transcribed words or phrases
     * Audible sounds or noises from narrator, interviewer, or interview environment
 ## Style guide
-Use this style guide when reviewing all transcripts for NeTIA's oral history project.
+Use this style guide when reviewing all transcripts for NeTIA's Oral History Project.
   
   ### Font and spacing
   Use Times New Roman 12-point font with single spacing (including the cover page).
 ### Labeling speakers
 When a speaker is speaking for the first time, use their full name. The second and following times they speak, only use thier last name.
 ### Filler words
-If you notice an interviewer or narrator saying "um" or "uh," you do not need to reflect that in the transcript. Write out the sentence without their filler words. Only note pauses using tags (see below).
+If you notice an interviewer or narrator saying "um" or "uh," you do not need to reflect that in the transcript. Leave the sentence without the filler words. Only note pauses using tags (see below).
 
 ### Transcribing short interjections
-Often times, you will hear short interjections from the interviewer throughout the interviewer like "okay" or "wow." To signify these interjections, use parentheses with the speaker's initials and what they said inside them. For example, if an interviewer named Susan Winters interjected by saying "okay" when a narrator was speaking, you would write: `(SW: Okay.)` However, if the interjection was substantial (more than three words) do not change the formatting.
+Often times, you will hear short interjections from the interviewer throughout the interviewer like "okay" or "wow!" To signify these interjections, use parentheses with the speaker's initials and what they said inside them. For example, if an interviewer named Susan Winters interjected by saying "okay" when a narrator was speaking, you would write: `(SW: Okay.)` However, if the interjection was substantial (more than three words) do not change the formatting.
 
 ### Correcting spelling mistakes or phrases
 If you notice a word or phrase was transcribed inaccurately or spelled incorrectly, strike through the inaccurate text and add in the accurate text or correct spelling next to it.
@@ -56,7 +56,7 @@ Make sure you add in the tag `[END OF INTERVIEW]` to the end of every transcript
 | --- | --- |
 | `[END OF INTERVIEW]` | This tag indicates that the interview is complete. Must be inserted at the end of every transcript.
 | `[INTERUPTION]` | This tag indicates that the interview was interuppted in some way. For example, the narrator recieves a phone call in the middle of the interview.
-| `[PHONETIC]` | This tag indicates that the name of a person, street, or place is spelled how it sounds and not how it is accurately  spelled. Often used when the reviewer is not sure about the accurate spelling of someone's name who is mentioned.
+| `[PHONETIC]` | This tag indicates that the name of a person, street, or place is spelled how it sounds which may not be accurate. Often used when the reviewer is not sure about the accurate spelling of someone's name who is mentioned.
 | `[LAUGHS]` | This tag indicates that the speaker is laughing.
 | `[PAUSES]` | This tag indicates that the speaker has stopped talking for a significant amount of time (usually 3 seconds or longer).
 <!-- Will add more tags to this list -->
