@@ -1,6 +1,6 @@
 # Understanding the transcript review process for NeTIA
-Return to home page | Continue to procedures
-<!-- Haven't coded this to work, but I will eventually -->
+[Return to home page](/README.md) | [Continue to procedures](procedure.md)
+
 ## Abbreviations
 Throughout this documentation, the following abbreviations will be used:
   
@@ -19,10 +19,6 @@ Every transcript that is part of NeTIA's Oral History Project goes through the s
 The transcript review process operates as follows:
 ```mermaid
 flowchart TD
-A[1. Transcribe interview through TurboScribe] --> B[2. GIVE student reviews transcript] --> C[3. Interviewer reviews transcript] --> D[4. Narrator reviews transcript] --> E[5. GIVE student applies narrator's edits to transcript] --> F[6. Archivist reviews transcript]
+A[1. Transcribe interview through TurboScribe] --> B[2. GIVE student reviews transcript] --> C[3. Interviewer reviews transcript] --> D[4. Narrator reviews transcript] --> E[5. GIVE student applies narrator's edits to transcript] --> F[6. Archivist reviews transcript] --> G[7. Transcript is shared through public digital exhibitions]
 ```
-The diagram reflects a review process that has been applied to 25+ oral history transcripts. 
-
-<!-- Plan on adding more about GIVE's in keeping the project moving forward -->
-
-<!-- Plan on adding sources. All information was shared with me verbally from archivists rather than a source text. -->
+> **Note:** The diagram above reflects a review process that has been applied to 25+ oral history transcripts. 
