@@ -1,6 +1,6 @@
 # Troubleshooting when reviewing a transcript
-Go back to procedures | Go to home page
-<!-- Haven't coded this to work, but I will eventually -->
+[Go back to procedures](procedure.md) | [Go to sources](sources.md)
+
 ## Common trouble spots and solutions
 Do not be discouraged if the review process seems daunting at first. It is certainly a tedious process but not a difficult one. You do not need to be an oral historian to successfully review a transcript!
   
